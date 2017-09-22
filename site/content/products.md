@@ -33,7 +33,7 @@ intro:
         Email us or call the store for details.
     - image: /img/illustrations/meeting-space.svg
       text: >
-        We believe that good coffee has the power to bring people together.
+        We believe that good coffee h;as the power to bring people together.
         That’s why we decided to turn a corner of our shop into a cozy meeting
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
@@ -99,4 +99,5 @@ pricing:
       plan: Custom
       price: '?'
 ---
+
 
